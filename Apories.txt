@@ -1,11 +1,11 @@
-1. To plot tha einia abstract class?
+1. To plot tha einia abstract class? Mporeis na tin kaneis kai etsi
 
-2. Tha prepei na ftiaksoume 24 classes plot i aplos na spasoume plot se 2 katugories?
+2. Tha prepei na ftiaksoume 24 classes plot i aplos na spasoume plot se 2 katugories? ---
 
-3.To player einia abstract class?
+3.To player einia abstract class? oxi
 
-4. Ti rolo varaei class MonopolyGame?
+4. Ti rolo varaei class MonopolyGame? 
 
-5.Hriazomaste class Board?
+5.Hriazomaste class Board? Ama 8eloume 
 
-6.Antistihisi world -> game kai animal-> plot einia swsti?
+6.Antistihisi world -> game kai animal-> plot einia swsti? einai swsto!
