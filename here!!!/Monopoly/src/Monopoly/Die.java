@@ -10,17 +10,20 @@ import java.util.Random;
  * @author Mario
  */
 public class Die {
-    int facevalue;
-    int roll()
+    protected int facevalue;
+    void roll()
     {
     
         Random randomgen = new Random();
 
-        int roll = (randomgen.nextInt(5))+1;
+        facevalue = (randomgen.nextInt(6))+1;
 
-        return roll;
-    };
+    }
     
-    getFaceValue();
-    setFaceValue();
+   public int getfacevalue(){
+       int face;
+       face= facevalue;
+       return face;
+   }
+
 }

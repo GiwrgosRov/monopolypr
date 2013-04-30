@@ -1,16 +1,27 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Monopoly;
 
-/**
- *
- * @author Mario
- */
-public class Plot {
-    // check enums in Java.. They are really powerfull!!!!!!
-    private enum plotType {
-        Launch, 
+/*
+public abstract class Plot 
+{
+    protected int ID;
+   
+    
+   
+    public Plot(int ID){
+	
+		this.ID = ID;
+		System.out.println(" In the constructor of Plot "+this.ID);
+	
+	}
+	
+}
+*/
+class PlotEX //extends Plot
+{
+
+    PlotEX(int i) {
+        throw new UnsupportedOperationException("Not yet implemented");
     }
+    
 }
